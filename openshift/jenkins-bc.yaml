@@ -7,7 +7,7 @@ spec:
   source:
     git:
       ref: master
-      uri: https://github.com/snowdrop/cloud-native-backend.git
+      uri: https://github.com/timothyvandenbrande/cloud-native-backend.git
     type: Git
   strategy:
     jenkinsPipelineStrategy:
